@@ -1,0 +1,6 @@
+{
+  "name": "BMS Sensor Dashboard",
+  "description": "A high-precision technical dashboard for monitoring building management system sensors including CO2, temperature, and humidity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
